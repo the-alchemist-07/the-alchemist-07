@@ -9,11 +9,11 @@
        alt="snake" /></a>
 </div>
 
-<details>
-  <summary>☎️ contact me</summary>
+<!-- <details> -->
+<!--   <summary>☎️ contact me</summary> -->
 <div>
 <!--   <samp> -->
-    <h2 align="center">😎 you can reach me by:</h2>
+    <h2 align="center">☎️ You can reach me by:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/the-alchemist/" target="blank"><img align="center"
@@ -32,4 +32,4 @@
     </p>
 <!--   </samp> -->
 </div>
-</details>
+<!-- </details> -->
